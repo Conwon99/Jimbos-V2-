@@ -1,6 +1,0 @@
-# https://glenviewexteriorcleaning.co.uk — allow full crawl; block only error page if it exists at this path.
-User-agent: *
-Allow: /
-Disallow: /404/
-
-Sitemap: https://glenviewexteriorcleaning.co.uk/sitemap.xml

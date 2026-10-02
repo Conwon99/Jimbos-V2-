@@ -1,2 +1,0 @@
-# Netlify: canonical apex host (matches SITE_URL in src/constants/site.ts)
-https://www.glenviewexteriorcleaning.co.uk/*  https://glenviewexteriorcleaning.co.uk/:splat  301!
